@@ -1,0 +1,9 @@
+.Mainboard {
+    width: 75%;
+    height: 100%;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    background-color: white;
+    position: absolute;
+    z-index: 2 !important;
+}

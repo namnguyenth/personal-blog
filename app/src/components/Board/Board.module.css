@@ -1,0 +1,13 @@
+.Board {
+    width: 75%;
+    height: 80vh;
+    border-radius: 1em;
+    /* box-shadow: 1px 1px 1px 1px grey; */
+    text-align: center;
+    overflow: auto;
+    color: #000;
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
