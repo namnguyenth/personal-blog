@@ -1,8 +1,0 @@
-.InfomationBoard {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    z-index: 1 !important;
-    background-color: #861657;
-    background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
-}
