@@ -1227,3 +1227,8 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.certificate {
+  width: 416px;
+  height: 416px;
+}
